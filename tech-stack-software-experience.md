@@ -190,7 +190,7 @@
 </thead>
 <tbody>
   <tr>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/cubase.png" width="80px" height="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/cubase-le.png" width="80px" height="80px"></a></td>
   </tr>
 </tbody>
 </table>
