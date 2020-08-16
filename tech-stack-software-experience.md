@@ -121,11 +121,17 @@
 <thead>
   <tr>
     <th align="center">Open Broadcaster Software (OBS)</th>
+    <th align="center">Sketchup</th>
+    <th align="center">Unity</th>
+    <th align="center">Sony Vegas Pro</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/obs.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/sketchup.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/unity.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/vegas-pro.png" width="80px"></a></td>
   </tr>
 </tbody>
 </table>
@@ -173,6 +179,7 @@
 <thead>
   <tr>
     <th align="center">Charles Proxy</th>
+    <th align="center">Telerik Fiddler</th>
     <th align="center">Bind9 DNS Server</th>
     <th align="center">Wireshark</th>
   </tr>
@@ -180,6 +187,7 @@
 <tbody>
   <tr>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/charles-proxy.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/telerik-fiddler.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/bind9.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/wireshark.png" width="80px"></a></td>
   </tr>
@@ -195,6 +203,8 @@
     <th align="center">Microsoft .NET Framework</th>
     <th align="center">React</th>
     <th align="center">Vue.js</th>
+    <th align="center">Qt</th>
+    <th align="center">Sass</th>
   </tr>
 </thead>
 <tbody>
@@ -203,6 +213,20 @@
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/microsoft-dot-net.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/react.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/vuejs.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/qt.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/sass.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+<table>
+<thead>
+  <tr>
+    <th align="center">Symfony</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/symfony.png" width="80px"></a></td>
   </tr>
 </tbody>
 </table>
@@ -237,12 +261,20 @@
   <tr>
     <th align="center">JavaScript</th>
     <th align="center">Native Instruments Script Processor (KSP)</th>
+    <th align="center">PHP</th>
+    <th align="center">Perl</th>
+    <th align="center">Python</th>
+    <th align="center">Shell Script / Bash</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/javascript.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/native-instruments.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/php.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/perl.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/python.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/shell-script.png" width="80px"></a></td>
   </tr>
 </tbody>
 </table>
@@ -351,11 +383,13 @@
 <thead>
   <tr>
     <th align="center">Steinberg Cubase LE</th>
+    <th align="center">Cockos REAPER</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/cubase-le.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/reaper.png" width="80px"></a></td>
   </tr>
 </tbody>
 </table>
@@ -407,6 +441,7 @@
     <th align="center">MySQL</th>
     <th align="center">Percona</th>
     <th align="center">PostgreSQL</th>
+    <th align="center">Redis</th>
   </tr>
 </thead>
 <tbody>
@@ -415,6 +450,7 @@
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/mysql.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/percona.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/postgresql.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/redis.png" width="80px"></a></td>
   </tr>
 </tbody>
 </table>
@@ -523,11 +559,13 @@
 <thead>
   <tr>
     <th align="center">Cloudflare</th>
+    <th align="center">Let's Encrypt</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/cloudflare.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/lets-encrypt.png" width="80px"></a></td>
   </tr>
 </tbody>
 </table>
