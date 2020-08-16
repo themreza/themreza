@@ -260,7 +260,7 @@
 <thead>
   <tr>
     <th align="center">JavaScript</th>
-    <th align="center">Native Instruments Script Processor (KSP)</th>
+    <th align="center">Native Instruments Kontakt Script Processor (KSP)</th>
     <th align="center">PHP</th>
     <th align="center">Perl</th>
     <th align="center">Python</th>
