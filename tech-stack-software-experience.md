@@ -565,7 +565,7 @@
 <tbody>
   <tr>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/cloudflare.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/lets-encrypt.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/letsencrypt.png" width="80px"></a></td>
   </tr>
 </tbody>
 </table>
