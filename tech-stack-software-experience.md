@@ -103,6 +103,7 @@
     <th align="center">Parallels Plesk</th>
     <th align="center">Webmin</th>
     <th align="center">WHMCS</th>
+    <th align="center">Swarmpit</th>
   </tr>
 </thead>
 <tbody>
@@ -112,6 +113,19 @@
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/parallels-plesk.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/webmin.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/whmcs.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/swarmpit.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+<table>
+<thead>
+  <tr>
+    <th align="center">Portainer</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/portainer.png" width="80px"></a></td>
   </tr>
 </tbody>
 </table>
