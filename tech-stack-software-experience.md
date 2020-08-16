@@ -560,12 +560,14 @@
   <tr>
     <th align="center">Cloudflare</th>
     <th align="center">Let's Encrypt</th>
+    <th align="center">Acunetix Vulnerability Scanner</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/cloudflare.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/letsencrypt.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/acunetix-vulnerability-scanner.png" width="80px"></a></td>
   </tr>
 </tbody>
 </table>
