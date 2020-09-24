@@ -32,6 +32,7 @@
     <th align="center">CouchDB</th>
     <th align="center">SQLite</th>
     <th align="center">MongoDB</th>
+    <th align="center">Prometheus</th>
   </tr>
 </thead>
 <tbody>
@@ -39,6 +40,7 @@
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/couchdb.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/sqlite.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/mongodb.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/prometheus.png" width="80px"></a></td>
   </tr>
 </tbody>
 </table>
