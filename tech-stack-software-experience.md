@@ -169,7 +169,6 @@
     <th align="center">D3.js</th>
     <th align="center">Charts.js</th>
     <th align="center">Plotly</th>
-    <th align="center">Matplotlib</th>
   </tr>
 </thead>
 <tbody>
@@ -177,7 +176,6 @@
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/d3js.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/chartsjs.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/plotly.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/matplotlib.png" width="80px"></a></td>
   </tr>
 </tbody>
 </table>
@@ -200,6 +198,24 @@
    </tr>
 </tbody>
 </table>
+
+## Messaging Protocols / M2M Communication
+
+<table>
+<thead>
+  <tr>
+    <th align="center">RabbitMQ</th>
+    <th align="center">Balena.io</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/rabbitmq.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/balenaio.png" width="80px"></a></td>
+   </tr>
+</tbody>
+</table>
+
 
 ## Code Coverage and Testing
 
