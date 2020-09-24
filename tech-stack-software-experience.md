@@ -161,6 +161,46 @@
 </tbody>
 </table>
 
+## Data Visualization
+
+<table>
+<thead>
+  <tr>
+    <th align="center">D3.js</th>
+    <th align="center">Charts.js</th>
+    <th align="center">Plotly</th>
+    <th align="center">Matplotlib</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/d3js.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/chartsjs.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/plotly.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/matplotlib.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+
+## Machine Learning / AI
+
+<table>
+<thead>
+  <tr>
+    <th align="center">Tensorflow</th>
+    <th align="center">OpenCV</th>
+    <th align="center">Jupyter</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/tensorflow.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/opencv.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/jupyter.png" width="80px"></a></td>
+   </tr>
+</tbody>
+</table>
+
 ## Code Coverage and Testing
 
 <table>
