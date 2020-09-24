@@ -603,6 +603,7 @@
 <thead>
   <tr>
     <th align="center">Git</th>
+    <th align="center">GitLab</th>
     <th align="center">Github</th>
     <th align="center">Bitbucket</th>
   </tr>
@@ -610,6 +611,7 @@
 <tbody>
   <tr>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/git.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/gitlab.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/github.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/bitbucket.png" width="80px"></a></td>
   </tr>
