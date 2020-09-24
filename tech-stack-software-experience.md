@@ -2,17 +2,203 @@
 
 # Tech Stack and Software Experience
 
+## Databases
+
+<table>
+<thead>
+  <tr>
+    <th align="center">Elasticsearch</th>
+    <th align="center">MySQL</th>
+    <th align="center">Percona</th>
+    <th align="center">PostgreSQL</th>
+    <th align="center">Redis</th>
+    <th align="center">InfluxDB</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/elasticsearch.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/mysql.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/percona.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/postgresql.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/redis.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/influxdb.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+<table>
+<thead>
+  <tr>
+    <th align="center">CouchDB</th>
+    <th align="center">SQLite</th>
+    <th align="center">MongoDB</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/couchdb.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/sqlite.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/mongodb.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+
+## Programming Languages
+
+<table>
+<thead>
+  <tr>
+    <th align="center">C++</th>
+    <th align="center">C#</th>
+    <th align="center">C</th>
+    <th align="center">Go</th>
+    <th align="center">HTML5</th>
+    <th align="center">CSS3</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/c-plus-plus.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/c-sharp.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/c.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/go.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/html5.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/css3.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th align="center">JavaScript</th>
+    <th align="center">Kontakt</th>
+    <th align="center">PHP</th>
+    <th align="center">Perl</th>
+    <th align="center">Python</th>
+    <th align="center">Shell Script / Bash</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/javascript.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/native-instruments.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/php.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/perl.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/python.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/shell-script.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th align="center">Java</th>
+    <th align="center">Assembly</th>
+    <th align="center">TypeScript</th>
+    <th align="center">SQL</th>
+    <th align="center">GraphQL</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/java.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/assembly.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/typescript.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/sql.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/graphql.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+
+## Programming Frameworks
+
+<table>
+<thead>
+  <tr>
+    <th align="center">Symfony</th>
+    <th align="center">Express</th>
+    <th align="center">Django</th>
+    <th align="center">Scrapy</th>
+    <th align="center">Flask</th>
+    <th align="center">Bottle</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/symfony.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/express.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/django.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/scrapy.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/flask.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/bottle.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+<table>
+<thead>
+  <tr>
+    <th align="center">CodeIgniter</th>
+    <th align="center">.NET Framework</th>
+    <th align="center">React</th>
+    <th align="center">Vue.js</th>
+    <th align="center">Qt</th>
+    <th align="center">Sass</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/codeigniter.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/microsoft-dot-net.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/react.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/vuejs.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/qt.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/sass.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+
+## Code Coverage and Testing
+
+<table>
+<thead>
+  <tr>
+    <th align="center">Cypress</th>
+    <th align="center">Selenium</th>
+    <th align="center">PHPUnit</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/cypress.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/selenium.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/phpunit.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+
 ## Content Management System (CMS)
 
 <table>
 <thead>
   <tr>
     <th align="center">Pimcore</th>
+    <th align="center">WordPress</th>
+    <th align="center">Drupal</th>
+    <th align="center">Joomla</th>
+    <th align="center">Strapi</th>
+    <th align="center">Prismic</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/pimcore.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/wordpress.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/drupal.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/joomla.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/strapi.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/prismic.png" width="80px"></a></td>
   </tr>
 </tbody>
 </table>
@@ -194,91 +380,6 @@
 </tbody>
 </table>
 
-## Programming Frameworks
-
-<table>
-<thead>
-  <tr>
-    <th align="center">CodeIgniter (PHP)</th>
-    <th align="center">Microsoft .NET Framework</th>
-    <th align="center">React</th>
-    <th align="center">Vue.js</th>
-    <th align="center">Qt</th>
-    <th align="center">Sass</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/codeigniter.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/microsoft-dot-net.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/react.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/vuejs.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/qt.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/sass.png" width="80px"></a></td>
-  </tr>
-</tbody>
-</table>
-<table>
-<thead>
-  <tr>
-    <th align="center">Symfony</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/symfony.png" width="80px"></a></td>
-  </tr>
-</tbody>
-</table>
-
-## Programming Languages
-
-<table>
-<thead>
-  <tr>
-    <th align="center">C++</th>
-    <th align="center">C#</th>
-    <th align="center">C</th>
-    <th align="center">CSS3</th>
-    <th align="center">Go</th>
-    <th align="center">HTML5</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/c-plus-plus.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/c-sharp.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/c.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/css3.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/go.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/html5.png" width="80px"></a></td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th align="center">JavaScript</th>
-    <th align="center">Native Instruments Kontakt Script Processor (KSP)</th>
-    <th align="center">PHP</th>
-    <th align="center">Perl</th>
-    <th align="center">Python</th>
-    <th align="center">Shell Script / Bash</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/javascript.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/native-instruments.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/php.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/perl.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/python.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/shell-script.png" width="80px"></a></td>
-  </tr>
-</tbody>
-</table>
-
 ## Issue Tracking and Agile Project Management
 
 <table>
@@ -428,29 +529,6 @@
   <tr>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/grafana.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/logdna.png" width="80px"></a></td>
-  </tr>
-</tbody>
-</table>
-
-## Databases
-
-<table>
-<thead>
-  <tr>
-    <th align="center">Elasticsearch</th>
-    <th align="center">MySQL</th>
-    <th align="center">Percona</th>
-    <th align="center">PostgreSQL</th>
-    <th align="center">Redis</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/elasticsearch.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/mysql.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/percona.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/postgresql.png" width="80px"></a></td>
-    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/redis.png" width="80px"></a></td>
   </tr>
 </tbody>
 </table>
