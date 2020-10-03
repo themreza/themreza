@@ -160,6 +160,18 @@
   </tr>
 </tbody>
 </table>
+<table>
+<thead>
+  <tr>
+    <th align="center">Tornado</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/tornado.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
 
 ## Data Visualization
 
@@ -206,12 +218,16 @@
   <tr>
     <th align="center">RabbitMQ</th>
     <th align="center">Balena.io</th>
+    <th align="center">gRPC</th>
+    <th align="center">Protocol Buffers</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/rabbitmq.png" width="80px"></a></td>
     <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/balenaio.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/grpc.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/protobuf.png" width="80px"></a></td>
    </tr>
 </tbody>
 </table>
