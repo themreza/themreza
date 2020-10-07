@@ -757,3 +757,130 @@
   </tr>
 </tbody>
 </table>
+
+## To Learn
+
+<table>
+<thead>
+  <tr>
+    <th align="center">Couchbase</th>
+    <th align="center">Traefik</th>
+    <th align="center">HAProxy</th>
+    <th align="center">Ruby</th>
+    <th align="center">Sonarqube</th>
+    <th align="center">AWS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+<table>
+<thead>
+  <tr>
+    <th align="center">Swift</th>
+    <th align="center">ArangoDB</th>
+    <th align="center">Matomo</th>
+    <th align="center">Caddy</th>
+    <th align="center">Clojure</th>
+    <th align="center">Haxe</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+<table>
+<thead>
+  <tr>
+    <th align="center">Rust</th>
+    <th align="center">Erlang</th>
+    <th align="center">Elixir</th>
+    <th align="center">Racket</th>
+    <th align="center">CrateDB</th>
+    <th align="center">Telegraf</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+<table>
+<thead>
+  <tr>
+    <th align="center">Vault</th>
+    <th align="center">Cassandra</th>
+    <th align="center">Kong</th>
+    <th align="center">Swagger</th>
+    <th align="center">RethinkDB</th>
+    <th align="center">NATS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+<table>
+<thead>
+  <tr>
+    <th align="center">Flink</th>
+    <th align="center">Scala</th>
+    <th align="center">Neo4j</th>
+    <th align="center">Zookeeper</th>
+    <th align="center">Jenkins</th>
+    <th align="center">Terraform</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
+<table>
+<thead>
+  <tr>
+    <th align="center">Chronograf</th>
+    <th align="center">Consul</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+    <td align="center"><a href="https://tomaraei.com"><img src="https://github.com/themreza/themreza/raw/master/logos/todo.png" width="80px"></a></td>
+  </tr>
+</tbody>
+</table>
